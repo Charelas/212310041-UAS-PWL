@@ -71,7 +71,6 @@ Follow these steps to set up the project locally:
 ## Usage
 
 - **Analyze URL**: Enter the URL you want to analyze, and the application will fetch detailed information from multiple sources.
-- **Export Results**: Export the analysis results as a PDF document.
 
 ## Screenshots
 
