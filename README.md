@@ -76,13 +76,10 @@ Follow these steps to set up the project locally:
 ## Screenshots
 
 ![Introduction](ss/Intro.png)
-*Figure 1: Intro view
 
 ![Home for Analyst](ss/Home.png)
-*Figure 2: Analysis Home view*
 
 ![Result from Analyst](ss/result.png)
-*Figure 3: Analysis Result view*
 
 ## Credits
 
